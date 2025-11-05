@@ -49,12 +49,6 @@ streamlit run streamlit_festival_map.py
 
 O app abrirá automaticamente no navegador.
 
----
-
-Confira o site em:
-```
-https://seuusuario-festival-map.streamlit.app
-```
 
 ---
 
